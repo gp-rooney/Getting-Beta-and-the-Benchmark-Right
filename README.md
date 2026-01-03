@@ -29,4 +29,4 @@ When terminals auto-compute a beta versus the S&P 500, is that benchmark appropr
 - Low R² means the beta estimate is unreliable — for WACC work you should either:
   - run sensitivity checks (show WACC under alternative betas), or  
   - consider a benchmark more tightly tied to the company’s cash flows (regional index, sector index, or a bespoke multi-factor beta).  
-- In short: Bloomberg’s default WACC is often fine, but verify when the company’s economic exposure looks different from the U.S. index. :contentReference[oaicite:4]{index=4}
+- In short: Bloomberg’s default WACC is often fine, but verify when the company’s economic exposure looks different from the U.S. index.
